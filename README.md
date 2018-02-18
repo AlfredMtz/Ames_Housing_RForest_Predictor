@@ -1,4 +1,4 @@
-## Price Predictions
+## Price Prediction
 
 Predict what the future value of homes will be in relation to weather and homes' features.
 
