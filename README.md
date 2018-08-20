@@ -10,6 +10,7 @@ In this project, I analyzed data related to the sale price of homes, besides hom
 * Access repository through the jupyter notebook
 * Excecute the code
 
+---
 ## Some of the findings include:
 - The tendency of people to buy more homes during the spring and summer months.
 - Specific homes' features such as the quality of homes, size of living area, and a total basement area showed the strongest importance related to home prices.
